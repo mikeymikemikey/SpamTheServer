@@ -1,5 +1,3 @@
-# SpamTheServer
-
 Setup
 =====
 
